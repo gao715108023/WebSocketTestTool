@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/async-http-client-1.7.22.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-logging-1.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/grizzly-framework-2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/grizzly-http-2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/grizzly-http-server-2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/grizzly-rcm-2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javaee-api-7.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javax.mail-1.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javax.websocket-api-1.0-rc5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jetty-http-8.1.9.v20130131.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jetty-io-8.1.9.v20130131.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jetty-util-8.1.9.v20130131.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jetty-websocket-8.1.9.v20130131.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/log4j-1.2.11.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/netty-3.9.0.Final.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tyrus-client-1.0-rc3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tyrus-container-grizzly-1.0-rc3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tyrus-core-1.0-rc3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tyrus-server-1.0-rc3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tyrus-spi-1.0-rc3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tyrus-websocket-core-1.0-rc3.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="async-http-client-1.7.22.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/async-http-client-1.7.22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.0.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-logging-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="grizzly-framework-2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/grizzly-framework-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="grizzly-http-2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/grizzly-http-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="grizzly-http-server-2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/grizzly-http-server-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="grizzly-rcm-2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/grizzly-rcm-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javaee-api-7.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javaee-api-7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.ideaLibSources/javaee-api-7.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.mail-1.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javax.mail-1.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.websocket-api-1.0-rc5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javax.websocket-api-1.0-rc5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-http-8.1.9.v20130131.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jetty-http-8.1.9.v20130131.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-io-8.1.9.v20130131.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jetty-io-8.1.9.v20130131.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util-8.1.9.v20130131.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jetty-util-8.1.9.v20130131.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-websocket-8.1.9.v20130131.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jetty-websocket-8.1.9.v20130131.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.11.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j-1.2.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty-3.9.0.Final.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/netty-3.9.0.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tyrus-client-1.0-rc3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tyrus-client-1.0-rc3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tyrus-container-grizzly-1.0-rc3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tyrus-container-grizzly-1.0-rc3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tyrus-core-1.0-rc3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tyrus-core-1.0-rc3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tyrus-server-1.0-rc3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tyrus-server-1.0-rc3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tyrus-spi-1.0-rc3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tyrus-spi-1.0-rc3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tyrus-websocket-core-1.0-rc3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tyrus-websocket-core-1.0-rc3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

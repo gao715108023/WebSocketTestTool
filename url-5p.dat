@@ -1,0 +1,5 @@
+/objinfo/getinfo?field=obj,label,name,new,updnratio,updn,amount&where=obj=SH600000.stk,SH600004.stk,SH600005.stk,SH600006.stk,SH600007.stk&start=0&count=0&response_times=-1&response_mode=0
+/objinfo/getinfo?field=obj,label,name,new,updnratio,updn,amount&where=obj=SH600008.stk,SH600009.stk,SH600010.stk,SH600011.stk,SH600012.stk&start=0&count=0&response_times=-1&response_mode=0
+/objinfo/getinfo?field=obj,label,name,new,updnratio,updn,amount&where=obj=SH600015.stk,SH600016.stk,SH600017.stk,SH600018.stk,SH600019.stk&start=0&count=0&response_times=-1&response_mode=0
+/objinfo/getinfo?field=obj,label,name,new,updnratio,updn,amount&where=obj=SH600020.stk,SH600021.stk,SH600022.stk,SH600026.stk,SH600027.stk&start=0&count=0&response_times=-1&response_mode=0
+/objinfo/getinfo?field=obj,label,name,new,updnratio,updn,amount&where=obj=SH600028.stk,SH600029.stk,SH600030.stk,SH600031.stk,SH600033.stk&start=0&count=0&response_times=-1&response_mode=0
